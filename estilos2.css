@@ -1,0 +1,95 @@
+biblioteca::before{
+  content: ">Lenguajes de programación y software que manejo.";
+  color: #800000;
+  font-size: 28px;
+  text-align: justify;
+  margin: 10px;
+  text-decoration: underline;
+}
+biblioteca{
+  border: 1px blue solid;
+  display: table;
+  margin: 10px auto;
+}
+lenguaje{
+    background-color: antiquewhite;
+    display: table-row;
+}
+nombre{
+font-size: 24px;
+font-style: sylfaen;
+text-align: center;
+color: blue;
+display: list;
+display: table-row;
+}
+img{
+width: 100%;
+border-radius: 100px;
+}
+nivel,descripcion{
+  font-size: 24px;
+  font-style: sylfaen;
+  text-align: center;
+  border: 1px green solid;
+  display:table-cell;
+}
+
+#tab1{
+    width: 800px;
+    max-width: 90%;
+    margin: 30px auto;
+    padding: 10rem;
+}
+#tab2{
+    font-size: 18px;
+    width: 800px;
+    max-width: 90%;
+    margin: 30px auto;
+    padding: 6rem;
+}
+
+#tab3{
+    font-size: 18px;
+    width: 800px;
+    max-width: 90%;
+    margin: 30px auto;
+    padding: 6rem;
+}
+#tab4{
+  font-size: 18px;
+  width: 800px;
+  max-width: 90%;
+  margin: 30px auto;
+  padding: 6rem;
+}
+#tab5{
+    font-size: 18px;
+    width: 800px;
+    max-width: 90%;
+    margin: 30px auto;
+    padding: 6rem;
+}
+.bxl-facebook,.bxl-vk,.bxl-instagram-alt{
+  font-size: 8rem;
+  justify-content: center;
+  gap: 30px;
+  transform: scale(1.2);
+}
+.bxl-facebook{
+  color: blue;
+}
+.bxl-vk{
+  color: #54759e;
+}
+.bxl-instagram-alt{
+  color: #f28500;
+}
+#tab6{
+    font-size: 18px;
+    font-size: 18px;
+    width: 800px;
+    max-width: 90%;
+    margin: 30px auto;
+    padding: 6rem;
+}
