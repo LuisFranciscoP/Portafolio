@@ -42,7 +42,6 @@ nivel,descripcion{
     padding: 10rem;
 }
 #tab2{
-    font-size: 18px;
     width: 800px;
     max-width: 90%;
     margin: 30px auto;
@@ -50,21 +49,18 @@ nivel,descripcion{
 }
 
 #tab3{
-    font-size: 18px;
     width: 800px;
     max-width: 90%;
     margin: 30px auto;
     padding: 6rem;
 }
 #tab4{
-  font-size: 18px;
   width: 800px;
   max-width: 90%;
   margin: 30px auto;
   padding: 6rem;
 }
 #tab5{
-    font-size: 18px;
     width: 800px;
     max-width: 90%;
     margin: 30px auto;
@@ -86,8 +82,6 @@ nivel,descripcion{
   color: #f28500;
 }
 #tab6{
-    font-size: 18px;
-    font-size: 18px;
     width: 800px;
     max-width: 90%;
     margin: 30px auto;
