@@ -22,7 +22,6 @@ text-align: center;
 color: blue;
 display: list;
 display: table-row;
-justify-content: center;
 }
 img{
 width: 100%;
@@ -34,7 +33,6 @@ font-style: sylfaen;
 text-align: center;
 border: 1px green solid;
 display:table-cell;
-justify-content: center;
 }
 descripcion{
   font-size: 18px;
@@ -42,14 +40,13 @@ descripcion{
   text-align: center;
   border: 1px green solid;
   display:table-cell;
-  justify-content: center;
 }
 
 #tab1{
     width: 800px;
     max-width: 90%;
     margin: 30px auto;
-    padding: 3rem;
+    padding: 6rem;
 }
 #tab2{
     width: 800px;
