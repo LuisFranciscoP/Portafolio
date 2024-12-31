@@ -30,21 +30,23 @@ border-radius: 100px;
 nivel{
 font-size: 22px;
 font-style: sylfaen;
+text-align: center;
 border: 1px green solid;
-display:table-column;
+display:table-cell;
 }
 descripcion{
   font-size: 18px;
   font-style: sylfaen;
+  text-align: center;
   border: 1px green solid;
-  display:table-column;
+  display:table-cell;
 }
 
 #tab1{
     width: 800px;
     max-width: 90%;
     margin: 30px auto;
-    padding: 11rem;
+    padding: 10rem;
 }
 #tab2{
     width: 800px;
