@@ -30,16 +30,14 @@ border-radius: 100px;
 nivel{
 font-size: 22px;
 font-style: sylfaen;
-text-align: center;
 border: 1px green solid;
-display:table-row;
+display:table-column;
 }
 descripcion{
   font-size: 18px;
   font-style: sylfaen;
-  text-align: center;
   border: 1px green solid;
-  display:table-row;
+  display:table-column;
 }
 
 #tab1{
