@@ -32,21 +32,21 @@ font-size: 22px;
 font-style: sylfaen;
 text-align: center;
 border: 1px green solid;
-display:table-cell;
+display:table-row;
 }
 descripcion{
   font-size: 18px;
   font-style: sylfaen;
   text-align: center;
   border: 1px green solid;
-  display:table-cell;
+  display:table-row;
 }
 
 #tab1{
     width: 800px;
     max-width: 90%;
     margin: 30px auto;
-    padding: 10rem;
+    padding: 11rem;
 }
 #tab2{
     width: 800px;
@@ -59,7 +59,7 @@ descripcion{
     width: 800px;
     max-width: 90%;
     margin: 30px auto;
-    padding: 3rem;
+    padding: 6rem;
 }
 #tab4{
   width: 800px;
