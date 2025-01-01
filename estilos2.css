@@ -47,6 +47,7 @@ descripcion{
     max-width: 90%;
     margin: 30px auto;
     padding: 10rem;
+    display: table-row;
 }
 #tab2{
     width: 800px;
@@ -60,6 +61,7 @@ descripcion{
     max-width: 90%;
     margin: 30px auto;
     padding: 6rem;
+    display: table-row;
 }
 #tab4{
   width: 800px;
